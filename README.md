@@ -1,0 +1,5 @@
+FROM itzg/minecraft-server
+
+ENV EULA=TRUE
+ENV VERSION=LATEST
+ENV MEMORY=2G
